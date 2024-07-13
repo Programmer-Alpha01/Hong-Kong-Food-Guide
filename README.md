@@ -13,3 +13,6 @@ The advanced version will be updated in the future.
 
 ## Notice
 Please note that the analysis results provided by the application model are not 100% accurate, and the language translation may not be perfect. 
+
+## About the model
+![image](https://github.com/user-attachments/assets/15d2a2a8-7940-4010-905e-1ec577dda754)
