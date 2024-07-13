@@ -1,5 +1,6 @@
 # "Mobile Application Development : Hong Kong Food Guide"
 
+
 ## Introduction
 Hong Kong Food Guide is an innovative mobile app designed to help travellers discover local food in Hong Kong. Using the CNN model to analyze photos, users can access detailed information about the food simply by photographing the dish.
 
